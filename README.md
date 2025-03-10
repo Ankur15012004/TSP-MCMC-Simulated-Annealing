@@ -18,9 +18,7 @@ This project implements a **Markov Chain Monte Carlo (MCMC) approach with Simula
 tsp_mcmc_project/
 │── tsp_mcmc.py      # Main script
 │── utils.py         # Helper functions (optional)
-│── plots/           # Stores generated plots
-│── results/         # Stores final results (optional)
-│── README.md        # Project overview
+
 ```
 
 ## **Installation & Setup**  
