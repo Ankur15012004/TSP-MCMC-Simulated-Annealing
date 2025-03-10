@@ -46,7 +46,21 @@ tsp_mcmc_project/
 
 ## **Example Output**  
 - Best Tour Sequence: `[3, 7, 1, 5, 10, ...]`  
-- Best Distance Found: `320 units`  
+- Best Distance Found: `320 units`
+- 
+## **Results**
+
+Here is the optimized tour obtained using the MCMC Simulated Annealing algorithm:
+
+![Optimized TSP Tour](tsp_result.png)
+
+*This image shows the shortest p![Markov_Chain_Monte_Carlo](https://github.com/user-attachments/assets/b545f1d3-50f6-4b86-ba93-420cee1274b4)
+ath found by the algorithm, connecting all cities efficiently.*
+
+
+
+
+
 
 ## **Future Improvements**  
 - Implement **parallel MCMC chains** for better exploration.  
