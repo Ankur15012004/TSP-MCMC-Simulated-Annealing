@@ -52,10 +52,10 @@ tsp_mcmc_project/
 
 Here is the optimized tour obtained using the MCMC Simulated Annealing algorithm:
 
-![Optimized TSP Tour](tsp_result.png)
+![Optimized TSP Tour]()
 
-*This image shows the shortest p![Markov_Chain_Monte_Carlo](https://github.com/user-attachments/assets/b545f1d3-50f6-4b86-ba93-420cee1274b4)
-ath found by the algorithm, connecting all cities efficiently.*
+ p![Markov_Chain_Monte_Carlo](https://github.com/user-attachments/assets/b545f1d3-50f6-4b86-ba93-420cee1274b4)
+
 
 
 
